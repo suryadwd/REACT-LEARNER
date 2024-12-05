@@ -1,0 +1,9 @@
+.con{
+  height: 45px;
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin-left: 13%;
+ }
+

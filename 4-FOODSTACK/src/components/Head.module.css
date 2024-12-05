@@ -1,0 +1,10 @@
+.container{
+  border: 3px solid rgb(171, 174, 180);
+  width: 50%;
+  margin-left: 26%;
+  margin-top: 8%;
+}
+
+.container h1{
+  margin-left: 35%;
+}

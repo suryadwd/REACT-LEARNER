@@ -1,0 +1,9 @@
+.one{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 600px;
+  margin-left: 450px;
+  margin-top: 30px;
+}
+

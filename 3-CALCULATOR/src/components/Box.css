@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+
+.box{
+  margin-top: 10%;
+  border: 3px solid rgb(148, 140, 140);
+  width: 25%;
+  margin-left: 520px;
+  padding: 20px;
+}
+
+.inp{
+  height: 35px;
+  width: 100%;
+}
+
+
+
+
